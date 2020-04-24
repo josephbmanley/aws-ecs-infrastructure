@@ -1,10 +1,14 @@
 # aws-ecs-infrastructure
 
+This project is a collection of CloudFormation stacks for getting started with running tasks with ECS.
+
 [See project progress](https://github.com/users/josephbmanley/projects/6)
 
-[ECS Cluster Stack](https://github.com/josephbmanley/aws-cluster-stack)
+Included Stacks:
 
-[EFS Stack](https://github.com/josephbmanley/aws-efs-stack)
+- [ECS Cluster Stack](https://github.com/josephbmanley/aws-cluster-stack)
+
+- [EFS Stack](https://github.com/josephbmanley/aws-efs-stack)
 
 # Example Tasks 
 
